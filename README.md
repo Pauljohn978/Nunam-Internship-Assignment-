@@ -5,7 +5,9 @@ Overview:
 This project involves creating data visualizations and analytics dashboards using data from a MySQL database. 
 The project includes generating pie charts and line graphs to visualize various metrics such as Capacity of Discharge, Voltage, Current, and Auxiliary Channel over time. 
 The data is fetched from a MySQL database and displayed using Streamlit for interactive web applications.
+
 In addition, I have created a video to showcase the working of the website.
+
 Features:
 Dashboard Visualization: Displays interactive charts for various metrics.
 Data Fetching: Connects to a MySQL database to retrieve data.
