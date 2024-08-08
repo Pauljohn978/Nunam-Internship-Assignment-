@@ -25,3 +25,5 @@ SELECT Absolute_Time, Cur FROM data1_detail: Query used to fetch data for Curren
 SELECT Absolute_Time, Auxiliary_channel FROM data1_detail JOIN data1_temp ON data1_detail.Record_Index=data1_temp.Record_Index: Query used to fetch data for Auxiliary Channel vs Time line graph.
 Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
+
+Function: Codebase was done on Jupyter notebook, and streamlit was run on VS Code.
